@@ -52,7 +52,7 @@ global.psaweria = '-' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6285609677141' //Nomor Bot mu
-global.nomorown = '6285807493194' //Nomormu
+global.nomorown = '628977491343' //Nomormu
 global.namebot = 'AHMAD BOT' //Nama bot mu
 global.nameown = 'AHMAD Ganz' //Nama mu
 
